@@ -9,5 +9,6 @@ public class GitTest2Activity extends Activity {
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.main);
+        /*this is a branch*/
     }
 }
