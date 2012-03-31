@@ -10,5 +10,6 @@ public class GitTest2Activity extends Activity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.main);
         /*this is a branch*/
+        /*Ciao*/
     }
 }
