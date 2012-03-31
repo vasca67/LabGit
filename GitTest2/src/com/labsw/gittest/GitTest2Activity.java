@@ -11,5 +11,6 @@ public class GitTest2Activity extends Activity {
         setContentView(R.layout.main);
         /*this is a branch*/
         /*Ciao*/
+        /*ancora*/
     }
 }
